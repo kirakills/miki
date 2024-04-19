@@ -1,0 +1,15 @@
+.menu{
+	direction:center;
+	width:100px;
+	height:100px
+}
+.foods{
+	color:white;
+	font-size:30px;
+}
+.intro h4 {
+    text-align: center;
+    color: Gold;
+    font-size: 30px;
+    font-weight: 500;
+}
